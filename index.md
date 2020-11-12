@@ -1,66 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
-<link rel="stylesheet" href="//unpkg.com/grapesjs/dist/css/grapes.min.css">
-<script src="//unpkg.com/grapesjs"></script>
-
-
-
-<!-- <head>
-    <title>Hello World!</title>
-    <style>
-        body{
-            background: #b1b1b1;
-            color: #ffffff;
-            font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        header{
-            background: black;
-            padding: 10px;
-            margin: 10px;
-
-        }
-        section{
-            background: #ffffff;
-            color: #b1b1b1;
-            padding: 10px;
-            margin: 10px;
-            display: flex;
-            flex-direction: row;
-        }
-        div{
-            background: rgb(95, 125, 163);
-            width: 50px;
-            color: white;
-            text-align: center;
-            padding: 5px;
-            margin: auto;
-        }
-        footer{
-            background: black;
-            padding: 10px;
-            margin: 10px;
-        }
-        maintextwuygwydguewd
-        {
-            color:teal;
-        }
-    </style>
-</head>
-<body>
-    <header>header</header>
-    <section>
-        <div>a</div>
-        <div>b</div>
-        <div>c</div>
-    </section>
-    <section>lower section</section>
-    <maintextwuygwydguewd>
-        This is a tester
-    </maintextwuygwydguewd>
-    <footer>footer</footer>
-</body> -->
-
-
+<html>
+    <head>
+        <!-- head definitions go here -->
+    </head>
+    <body>
+        <!-- the content goes here -->
+    </body>
 </html>
